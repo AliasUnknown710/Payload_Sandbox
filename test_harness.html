@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+  <input id="input" />
+  <button onclick="run()">Inject</button>
+  <script>
+    function run() {
+      const val = document.getElementById("input").value;
+      document.body.innerHTML += val;
+    }
+  </script>
+</body>
+</html>
