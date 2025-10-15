@@ -1,7 +1,6 @@
 ## 📘 `payload-sandbox/README.md`
 
-```markdown
-# 🧪 Payload Sandbox
+## 🧪 Payload Sandbox
 
 A curated collection of offensive payloads for XSS, SQLi, LFI, and SSTI testing. Includes a local HTML test harness for safe injection testing.
 
